@@ -118,7 +118,7 @@
 <a name="the-events-directory"></a>
 #### `Events` 目录
 
- `Events` 目录默认不存在，它会在你使用 `event:generate` 或者 `event:make` 命令以后才会生成。如你所料，此目录是用来放置 [事件类](/docs/{{version}}/events) 的。事件类用于当指定事件发生时，通知应用程序的其它部分，并提供了很棒的灵活性及解耦。
+ `Events` 目录默认不存在，它会在你使用 `event:generate` 或者 `make:event` 命令以后才会生成。如你所料，此目录是用来放置 [事件类](/docs/{{version}}/events) 的。事件类用于当指定事件发生时，通知应用程序的其它部分，并提供了很棒的灵活性及解耦。
 
 <a name="the-exceptions-directory"></a>
 #### `Exceptions` 目录
